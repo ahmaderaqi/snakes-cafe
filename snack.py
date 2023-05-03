@@ -1,5 +1,7 @@
 print("$ python snakes_cafe.py\n**************************************\n**    Welcome to the Snakes Cafe!   **\n**    Please see our menu below.    **")
 print("**\n** To quit at any time, type \"quit\" **\n**************************************\n")
+print("Appetizers\n----------\nWings\nCookies\n\nSpring Rolls\n\Entrees\n\n-------\n\nSalmon\nSteak\nMeat Tornado\nA Literal Garden\n")
+print("Desserts\n\n--------\nIce Cream\n\nCake\nPie\n\nDrinks\n------\nCoffee\nTea\nUnicorn\n Tears")
 print("what would you like to order?\n")
 
 order_array = []
